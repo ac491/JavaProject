@@ -1,6 +1,6 @@
 ### Java project for CSD-207
 
-##Smart News Reader
+###Smart News Reader
 
 It can detect if a news article is fake or not, summarize articles and recommend articles.
 
